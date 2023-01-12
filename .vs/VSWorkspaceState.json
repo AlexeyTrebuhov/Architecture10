@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ClinicService",
+    "\\ClinicService\\Controllers",
+    "\\ClinicService\\Models",
+    "\\ClinicService\\Models\\Requests",
+    "\\ClinicService\\Services",
+    "\\ClinicService\\Services\\Impl"
+  ],
+  "SelectedNode": "\\ClinicService\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

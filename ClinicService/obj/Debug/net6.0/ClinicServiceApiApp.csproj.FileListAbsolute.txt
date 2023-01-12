@@ -1,0 +1,7 @@
+D:\Обучение\Работа в Git\Work C#\Architecture10\ClinicService\ClinicService\obj\Debug\net6.0\ClinicServiceApiApp.csproj.AssemblyReference.cache
+D:\Обучение\Работа в Git\Work C#\Architecture10\ClinicService\ClinicService\obj\Debug\net6.0\ClinicServiceApiApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Работа в Git\Work C#\Architecture10\ClinicService\ClinicService\obj\Debug\net6.0\ClinicServiceApiApp.AssemblyInfoInputs.cache
+D:\Обучение\Работа в Git\Work C#\Architecture10\ClinicService\ClinicService\obj\Debug\net6.0\ClinicServiceApiApp.AssemblyInfo.cs
+D:\Обучение\Работа в Git\Work C#\Architecture10\ClinicService\ClinicService\obj\Debug\net6.0\ClinicServiceApiApp.csproj.CoreCompileInputs.cache
+D:\Обучение\Работа в Git\Work C#\Architecture10\ClinicService\ClinicService\obj\Debug\net6.0\ClinicServiceApiApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Обучение\Работа в Git\Work C#\Architecture10\ClinicService\ClinicService\obj\Debug\net6.0\ClinicServiceApiApp.MvcApplicationPartsAssemblyInfo.cache
