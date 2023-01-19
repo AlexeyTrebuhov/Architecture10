@@ -1,0 +1,14 @@
+D:\Обучение\02. Первая четверть 1\39 Архитектура ПО (семинары)\Семинар 11\Architecture11\ClinicService\ClinicNew\obj\Debug\ClinicNew.csproj.AssemblyReference.cache
+D:\Обучение\02. Первая четверть 1\39 Архитектура ПО (семинары)\Семинар 11\Architecture11\ClinicService\ClinicNew\obj\Debug\ClinicNew.csproj.SuggestedBindingRedirects.cache
+D:\Обучение\02. Первая четверть 1\39 Архитектура ПО (семинары)\Семинар 11\Architecture11\ClinicService\ClinicNew\obj\Debug\ClinicNew.Form1.resources
+D:\Обучение\02. Первая четверть 1\39 Архитектура ПО (семинары)\Семинар 11\Architecture11\ClinicService\ClinicNew\obj\Debug\ClinicNew.Properties.Resources.resources
+D:\Обучение\02. Первая четверть 1\39 Архитектура ПО (семинары)\Семинар 11\Architecture11\ClinicService\ClinicNew\obj\Debug\ClinicNew.csproj.GenerateResource.cache
+D:\Обучение\02. Первая четверть 1\39 Архитектура ПО (семинары)\Семинар 11\Architecture11\ClinicService\ClinicNew\obj\Debug\ClinicNew.csproj.CoreCompileInputs.cache
+D:\Обучение\02. Первая четверть 1\39 Архитектура ПО (семинары)\Семинар 11\Architecture11\ClinicService\ClinicNew\bin\Debug\ClinicNew.exe.config
+D:\Обучение\02. Первая четверть 1\39 Архитектура ПО (семинары)\Семинар 11\Architecture11\ClinicService\ClinicNew\bin\Debug\ClinicNew.exe
+D:\Обучение\02. Первая четверть 1\39 Архитектура ПО (семинары)\Семинар 11\Architecture11\ClinicService\ClinicNew\bin\Debug\ClinicNew.pdb
+D:\Обучение\02. Первая четверть 1\39 Архитектура ПО (семинары)\Семинар 11\Architecture11\ClinicService\ClinicNew\bin\Debug\Newtonsoft.Json.dll
+D:\Обучение\02. Первая четверть 1\39 Архитектура ПО (семинары)\Семинар 11\Architecture11\ClinicService\ClinicNew\bin\Debug\Newtonsoft.Json.xml
+D:\Обучение\02. Первая четверть 1\39 Архитектура ПО (семинары)\Семинар 11\Architecture11\ClinicService\ClinicNew\obj\Debug\ClinicNew.csproj.CopyComplete
+D:\Обучение\02. Первая четверть 1\39 Архитектура ПО (семинары)\Семинар 11\Architecture11\ClinicService\ClinicNew\obj\Debug\ClinicNew.exe
+D:\Обучение\02. Первая четверть 1\39 Архитектура ПО (семинары)\Семинар 11\Architecture11\ClinicService\ClinicNew\obj\Debug\ClinicNew.pdb

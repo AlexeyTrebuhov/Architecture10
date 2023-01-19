@@ -300,11 +300,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Обучение\\Работа в Git\\Work C#\\Architecture10\\ClinicService\\ClinicService\\ClinicService.csproj",
+      "projectUniqueName": "D:\\Обучение\\02. Первая четверть 1\\39 Архитектура ПО (семинары)\\Семинар 11\\Architecture11\\ClinicService\\ClinicService\\ClinicService.csproj",
       "projectName": "ClinicService",
-      "projectPath": "D:\\Обучение\\Работа в Git\\Work C#\\Architecture10\\ClinicService\\ClinicService\\ClinicService.csproj",
+      "projectPath": "D:\\Обучение\\02. Первая четверть 1\\39 Архитектура ПО (семинары)\\Семинар 11\\Architecture11\\ClinicService\\ClinicService\\ClinicService.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "D:\\Обучение\\Работа в Git\\Work C#\\Architecture10\\ClinicService\\ClinicService\\obj\\",
+      "outputPath": "D:\\Обучение\\02. Первая четверть 1\\39 Архитектура ПО (семинары)\\Семинар 11\\Architecture11\\ClinicService\\ClinicService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -365,7 +365,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
